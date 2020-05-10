@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\Aplikasi Survey COVID-19\bin\Debug\Aplikasi Survey COVID-19.exe.config
+C:\Users\ASUS\source\repos\Aplikasi Survey COVID-19\bin\Debug\Aplikasi Survey COVID-19.exe
+C:\Users\ASUS\source\repos\Aplikasi Survey COVID-19\bin\Debug\Aplikasi Survey COVID-19.pdb
+C:\Users\ASUS\source\repos\Aplikasi Survey COVID-19\bin\Debug\Aplikasi Survey COVID-19.xml
+C:\Users\ASUS\source\repos\Aplikasi Survey COVID-19\obj\Debug\Aplikasi Survey COVID-19.vbprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Aplikasi Survey COVID-19\obj\Debug\Aplikasi_Survey_COVID_19.Resources.resources
+C:\Users\ASUS\source\repos\Aplikasi Survey COVID-19\obj\Debug\Aplikasi Survey COVID-19.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Aplikasi Survey COVID-19\obj\Debug\Aplikasi Survey COVID-19.exe
+C:\Users\ASUS\source\repos\Aplikasi Survey COVID-19\obj\Debug\Aplikasi Survey COVID-19.xml
+C:\Users\ASUS\source\repos\Aplikasi Survey COVID-19\obj\Debug\Aplikasi Survey COVID-19.pdb
+C:\Users\ASUS\source\repos\Aplikasi Survey COVID-19\obj\Debug\Aplikasi_Survey_COVID_19.Identitas.resources
+C:\Users\ASUS\source\repos\Aplikasi Survey COVID-19\obj\Debug\Aplikasi_Survey_COVID_19.MainMenu.resources
+C:\Users\ASUS\source\repos\Aplikasi Survey COVID-19\obj\Debug\Aplikasi_Survey_COVID_19.Hasil.resources
+C:\Users\ASUS\source\repos\Aplikasi Survey COVID-19\obj\Debug\Aplikasi_Survey_COVID_19.Survey.resources
+C:\Users\ASUS\source\repos\Aplikasi Survey COVID-19\obj\Debug\Aplikasi_Survey_COVID_19.About.resources
+C:\Users\ASUS\source\repos\Aplikasi Survey COVID-19\obj\Debug\Aplikasi_Survey_COVID_19.Splash.resources

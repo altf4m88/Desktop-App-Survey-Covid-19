@@ -1,0 +1,126 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Aplikasi Survey COVID-19
+</name>
+</assembly>
+<members>
+<member name="T:Aplikasi_Survey_COVID_19.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources._2018_social_media_popular_app_logo_instagram_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources._584ac2d03ac3a570f94a666d">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.book">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.cardiogram">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.cek_trans">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.computer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.computer1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.disc_trans">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.flag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.folder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.logo_rpl_fix">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.magnifying_glass">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.nurse">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.nurse_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.periksa_trans">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.placeholder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.report">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.report_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.virus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_Survey_COVID_19.My.Resources.Resources.ZKZg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
